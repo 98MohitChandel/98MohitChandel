@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @98MohitChandel
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Analysis & Visulization
+- 💞️ I’m looking to collaborate on Data Analysis & Visualization
 - 📫 How to reach me E-Mail- mohit.chandel888@gmail.com & Linkedin Link-linkedin.com/in/mohit-chandel-4b5822177
 
 <!---
